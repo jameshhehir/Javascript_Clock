@@ -12,7 +12,7 @@
 The index.html file loads both scripts (clock.js & digtial.js). This displays the analog clock followed by a digital clock in 24hr format.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/clock.png)
 
 ## Technologies
 * Javascript
